@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.0.1.9</version>
+    <version>3.0.2.0</version>
     <url>https://raw.githubusercontent.com/DanzoDev/x7b9z3k2-updates/refs/heads/main/Publish.zip</url>
     <mandatory>true</mandatory>
     <executable>Majestic Admin Helper.exe</executable>
